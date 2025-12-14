@@ -1,6 +1,10 @@
 # Mehran Latifi (@mehranlatifi83)
 
-**Django & Python Backend Developer** • **Telegram Bots** • **Accessibility (NVDA Add-ons)** • Desktop Apps (**wxPython**) • Android (Java)
+• **Django & Python Backend Developer**
+• **Telegram Bots**
+• **Accessibility (NVDA Add-ons)**
+• Desktop Apps (**wxPython**)
+• Android (Java)
 
 ✅ Available for Django backend / Telegram bot projects (remote).
 
