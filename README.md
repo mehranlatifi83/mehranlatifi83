@@ -1,16 +1,20 @@
-## Hi there 👋
+# Mehran Latifi (@mehranlatifi83)
 
-<!--
-**mehranlatifi83/mehranlatifi83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Django & Python Backend Developer • Telegram Bots • Accessibility (NVDA Add-ons)  
+Desktop Apps (wxPython) • Android (Java)
 
-Here are some ideas to get you started:
+## About me
+- 🧩 Backend developer with **Python / Django**
+- 🎟️ Working on backend for:
+  - **CinemaSoren** — https://cinemasoren.ir
+  - **Belitik** — https://belitik.ir
+- 🤖 Telegram bots with:
+  - **python-telegram-bot**
+  - **Telethon**
+- ♿ I build **NVDA screen reader add-ons** (accessibility improvements)
+- 🖥️ Desktop apps with **wxPython** (when needed)
+- 📱 Android apps with **Java** (basic to intermediate)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Links
+- Telegram: https://t.me/mehranlatifi83
+- GitHub: https://github.com/mehranlatifi83
