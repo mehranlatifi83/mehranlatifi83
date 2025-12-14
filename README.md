@@ -3,19 +3,20 @@
 **Django & Python Backend Developer** • **Telegram Bots** • **Accessibility (NVDA Add-ons)**  
 Desktop Apps (**wxPython**) • Android (Java)
 
+✅ Available for Django backend / Telegram bot projects (remote).
+
 ## ⭐ Featured
-- ♿ **v2rayN (NVDA add-on)** — Accessibility improvements for the v2rayN app  
-  Releases available • NVDA **2024.1+** compatible
+- ♿ **[v2rayN (NVDA add-on)](https://github.com/mehranlatifi83/v2rayN)** — Accessibility improvements for v2rayN • **NVDA 2024.1+**
 
 ## What I do
-- 🧩 Build complete backend systems with **Python/Django**
-  - Write **views & business logic**, implement features end-to-end
-  - Design **APIs** and integrate backend with **frontend** (REST/JSON)
+- 🧩 **Django/Python backend development**
+  - Write **views** and implement **business logic** end-to-end
+  - Build **REST/JSON APIs** and connect backend to **frontend**
   - Auth/permissions, admin panels, database design
-- 🤖 Build Telegram bots with **python-telegram-bot** & **Telethon**
-- ♿ Develop **NVDA screen reader add-ons** (accessibility improvements)
-- 🖥️ Desktop apps with **wxPython** (when needed)
-- 📱 Android apps with **Java** (basic → intermediate)
+- 🤖 **Telegram bots** with **python-telegram-bot** & **Telethon**
+- ♿ **NVDA add-ons** (accessibility improvements)
+- 🖥️ **Desktop apps** with **wxPython** (when needed)
+- 📱 **Android apps** with **Java** (basic → intermediate)
 
 ## Work
 - 🎟️ Backend development for:
@@ -31,4 +32,4 @@ Desktop Apps (**wxPython**) • Android (Java)
 - wxPython
 
 ## Contact
-- Email: mehran.latifi8383@gmail.com
+- Email: [mehran.latifi8383@gmail.com](mailto:mehran.latifi8383@gmail.com)
