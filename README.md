@@ -39,5 +39,4 @@ Python · Django · PostgreSQL · SQLite · REST APIs · Java / Android · pytho
 
 ## Contact
 
-- Website: [mehranlatifi83.ir](https://mehranlatifi83.ir)
 - Email: [mehran.latifi8383@gmail.com](mailto:mehran.latifi8383@gmail.com)
